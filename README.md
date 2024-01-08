@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nidhi kumari.
+- 👋 Hello everyone, I’m Nidhi kumari.
 - 👀 I’m interested in learning about new technologies.
 - 🌱 I’m currently learning B.Tec(CSE) course with intrest .
 - 💞️ I’m looking to collaborate on GITHUB.
