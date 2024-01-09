@@ -1,7 +1,7 @@
 - 👋 Hello everyone, I’m Nidhi kumari.
 - 👀 I’m interested in learning about new technologies.
 - 🌱 I’m currently learning B.Tec(CSE) course with intrest .
-- 💞️ I’m looking to collaborate on GITHUB.
+- 💞️ I am looking to collaborate on GITHUB.
 - 📫 sweetybr682@gmail.com
 
 <!---
